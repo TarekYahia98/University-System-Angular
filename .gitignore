@@ -1,0 +1,76 @@
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
+
+/Desktop/Back-End-Courses/Angular\ University\ System\ Project/University-System-Project/
+/Desktop/Back-End-Courses/Angular\ Project/university-system/
+/../../../../.angular-config.json
+/../../../../.cache/
+/../../../../.config/
+/../../../../.gitconfig
+/../../../../.gitignore
+/../../../../.m2/
+/../../../../.ssh/
+/../../../../AppData/
+/../../../../Contacts/
+/../../../../Documents/
+/../../../../Downloads/
+/../../../../Favorites/
+/../../../../Links/
+/../../../../Music/
+/../../../../Pictures/
+/../../../../Saved Games/
+/../../../../Searches/
+/../../../../Videos/
+/../../../../_netrc
+../../../*.lnk
+../../../*.docx
+../../../*.pdf
+../../../*.jpg
+../../../*.png
+../../Angular\ Project/university-system/
+../../Code\ With\ Mosh\ -\ The\ Complete\ Node.js\ Course/
+../../JavaScript\ The\ Hard\ Parts\ v2/
+../../../../Node.jsTrack.jpg
+../../Route\ Email\ Setup\ with\ nodemailer/
+../../../../MySalary\ Calculation.xlsx
+../../University_System_Task.sql
